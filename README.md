@@ -5,7 +5,9 @@ Licensed under [CC-BY-SA-4.0](https://github.com/nluczywo/Finding_Kernel_GDM/blo
 
 The data supports the work presented in the journal Mathematical Problems in Engineering of editorial Hindawi with the title *Finding Kernel in Group Decision-Making*.
 
-**Author:** Nadia Ayelen Luczywo <[nadia.luczywo@unc.edu.ar](mailto:nadia.luczywo@unc.edu.ar)>
+**Authors:** Nadia Ayelen Luczywo <[nadia.luczywo@unc.edu.ar](mailto:nadia.luczywo@unc.edu.ar)>, 
+José Luis Zanazzi <[jose.luis.zanazzi@unc.edu.ar](mailto:jose.luis.zanazzi@unc.edu.ar)>, and
+Catalina Lucía Alberto <[catalina.alberto@unc.edu.ar](mailto:catalina.alberto@unc.edu.ar)> 
 
 ## Description of the Data.
 
@@ -31,7 +33,7 @@ Thus, the sheets included in the dataset are:
 - Spreadsheet `HS1` shows the first iteration of the individual allocation to analyze the subproblem of analysis of the alternatives for the Hygiene and safety conditions criterion.
 - Spreadsheet `TR1` shows the first iteration of the individual allocation to analyze the subproblem of analysis of the alternatives for the Treatment and final disposal criterion.
 
-In order to obtain the utilities per participant, it is necessary to make the product of each element with its adjacent one
+In order to obtain the utilities per participant, it is necessary to make the product of each element with its adjacent one. 
 For  example, from Spreadsheet `Wj1`: 
 | Participant | Segundo encabezado | MO | CO | EXP | FL | MS | HS | MO |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
