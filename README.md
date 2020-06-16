@@ -29,5 +29,5 @@ In order to obtain the utilities per participant, it is necessary to make the pr
 For  example, from Spreadsheet `Wj1`: 
 | Participant | Segundo encabezado | MO | CO | EXP | FL | MS | HS | MO |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
-| 1  | Times of preferences | 3  | 1.5  |  2  | 1.5  | 1.5  | 2  | 1  |
-| 1  | Utilities for participant | 3 * 13.5  | 1.5 * 9  |  2 * 4.5  | 1.5 * 3  | 1.5 * 2  | 2 * 1 | 1  |
+|  1  | Times of preferences |  3  |  1.5  |   2  |  1.5  |  1.5  |  2  |  1  |
+|  1  | Utilities for participant | 3 * 13.5  | 1.5 * 9  |  2 * 4.5  | 1.5 * 3  | 1.5 * 2  | 2 * 1 | 1  |
