@@ -1,5 +1,5 @@
-# Finding_Kernel_GDM
-Finding Kernel in Group Decision-Making.
+# Finding Kernel in Group Decision-Making.
+
 
 Data.
 
