@@ -1,7 +1,13 @@
 # Finding Kernel in Group Decision-Making.
 
 
-Data.
+Licensed under [CC-BY-SA-4.0](https://github.com/nluczywo/Finding_Kernel_GDM/blob/master/LICENSE)
+
+The data supports the work presented in the journal Mathematical Problems in Engineering of editorial Hindawi with the title *Finding Kernel in Group Decision-Making*.
+
+**Author:** Nadia Ayelen Luczywo <[nadia.luczywo@unc.edu.ar](mailto:nadia.luczywo@unc.edu.ar)>
+
+## Description of the Data.
 
 For each subproblem, each participant makes an assessment that represents how many times is a preferred element when compared to the adjacent one.
 The collected data is shown in the way expressed following:
